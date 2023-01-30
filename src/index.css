@@ -1,0 +1,21 @@
+html {
+  font-size: 10px;
+}
+body {
+  margin: 0;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+input:hover,
+input:active,
+input:focus {
+  outline: none;
+}
